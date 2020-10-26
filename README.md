@@ -47,3 +47,9 @@ And finally, run the server with the follwing command
 py manage.py runserver
 ```
 Open your browser and go to: http://localhost:8000/
+
+### Tech Details
+| Tech | Version |
+| ------ | ------ |
+| Python | 3.9.0 |
+| Pip | 20.2.3 |
